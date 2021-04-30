@@ -1,2 +1,2 @@
 # covid
-hi this is the first project using github
+hi this is my first project using github
